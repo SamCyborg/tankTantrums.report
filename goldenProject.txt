@@ -1,0 +1,35 @@
+GOLDEN PROJECT
+
+ POINTERS:
+1) cHARACTER- playing character(player paddle), non-playing character(computer paddle) 
+
+2) LIVES - interesting, challenging
+
+
+3) POWERS - Fun
+
+4) DIFFICULTY LEVEL - "okay-okay" 
+
+5) ADAPTIVE - eg:speed increases with score in trex game
+
+6) FEEDBACK - game gives us feedback
+   -> score
+   -> lives 
+   -> sound
+
+7) STORY      
+
+
+
+i) lives bar img
+ii) fireworks video and try firing
+
+
+2) Aim + Rotate
+3) Fireworks
+4) Lives
+*) random images:ct,pt  
+
+
+
+
